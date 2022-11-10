@@ -33,12 +33,41 @@
       }
     ],
     "android": [
-
+      {
+        "type": "version",
+        "value": "1.0.0",
+        "message": "This app has been updated by Apple to display the Apple Watch app icon.\nThe latest update includes minor improvements and fixes.",
+        "url": "https://apps.apple.com/us/app/id471966214",
+        "yes": "Update",
+        "no": "Close",
+        "show": false,
+        "force": false
+      },
+      {
+        "type": "rating",
+        "value": "",
+        "message": "If you love our app, please take a moment to rate it in the App Store",
+        "url": "https://itunes.apple.com/app/id471966214?action=write-review",
+        "yes": "Rate",
+        "no": "Close",
+        "show": true,
+        "force": false
+      },
+      {
+        "type": "announcement",
+        "value": "",
+        "message": "For the latest app news, please follow us on Twitter.",
+        "url": "https://twitter.com/elonmusk",
+        "yes": "Follow",
+        "no": "Close",
+        "show": true,
+        "force": false
+      }
     ]
   },
   "userAgent": {
     "ios": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/",
-    "android": ""
+    "android": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.105 Mobile Safari/537.36"
   },
   "scripts": {
     "home": "",
@@ -66,7 +95,20 @@
       }
     ],
     "android": [
-
+      {
+        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/62/1c/bd/621cbdc9-6c5a-92ba-d96e-35ec09d16cc8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+        "name": "Apple News",
+        "desc": "News + magazines, in one app",
+        "url": "https://apps.apple.com/us/app/id1066498020",
+        "get": "Install"
+      },
+      {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/88/83/e688839f-1617-7df0-7423-97c2f1268f46/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+        "name": "Apple Music",
+        "desc": "Over 100 million songs.",
+        "url": "https://apps.apple.com/us/app/id1108187390",
+        "get": "Install"
+      }
     ]
   }
 }
