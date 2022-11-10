@@ -4,6 +4,7 @@
       {
         "type": "version",
         "value": "1.0.0",
+        "title": "Update The New Version",
         "message": "This app has been updated by Apple to display the Apple Watch app icon.\nThe latest update includes minor improvements and fixes.",
         "url": "https://apps.apple.com/us/app/id471966214",
         "yes": "Update",
@@ -14,6 +15,7 @@
       {
         "type": "rating",
         "value": "",
+        "title": "Write down your comment",
         "message": "If you love our app, please take a moment to rate it in the App Store",
         "url": "https://itunes.apple.com/app/id471966214?action=write-review",
         "yes": "Rate",
@@ -24,6 +26,7 @@
       {
         "type": "announcement",
         "value": "",
+        "title": "Twitter @elonmusk",
         "message": "For the latest app news, please follow us on Twitter.",
         "url": "https://twitter.com/elonmusk",
         "yes": "Follow",
@@ -36,6 +39,7 @@
       {
         "type": "version",
         "value": "1.0.0",
+        "title": "Update The New Version",
         "message": "This app has been updated by Apple to display the Apple Watch app icon.\nThe latest update includes minor improvements and fixes.",
         "url": "https://apps.apple.com/us/app/id471966214",
         "yes": "Update",
@@ -46,6 +50,7 @@
       {
         "type": "rating",
         "value": "",
+        "title": "Write down your comment",
         "message": "If you love our app, please take a moment to rate it in the App Store",
         "url": "https://itunes.apple.com/app/id471966214?action=write-review",
         "yes": "Rate",
@@ -56,6 +61,7 @@
       {
         "type": "announcement",
         "value": "",
+        "title": "Twitter @elonmusk",
         "message": "For the latest app news, please follow us on Twitter.",
         "url": "https://twitter.com/elonmusk",
         "yes": "Follow",
