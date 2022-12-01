@@ -1,4 +1,16 @@
 {
+  "urls": {
+    "home": "https://hdtoday.tv/home",
+    "movie": "https://hdtoday.tv/movie",
+    "tvShow": "https://hdtoday.tv/tv-show",
+    "topIMDB": {
+      "all": "https://hdtoday.tv/top-imdb?type=all",
+      "movie": "https://hdtoday.tv/top-imdb?type=movie",
+      "tvShow": "https://hdtoday.tv/top-imdb?type=tv"
+    },
+    "search": "https://hdtoday.tv/search",
+    "filter": "https://hdtoday.tv/filter"
+  },
   "alerts": {
     "ios": [
       {
