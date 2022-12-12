@@ -84,7 +84,7 @@
     ]
   },
   "ads": {
-    "rotate": true,
+    "rotate": false,
     "items": [
       {
         "type": "applovin",
