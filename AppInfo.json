@@ -83,6 +83,26 @@
       }
     ]
   },
+  "ads": {
+    "rotate": true,
+    "items": [
+      {
+        "type": "applovin",
+        "sdkKey": "",
+        "adId": ""
+      },
+      {
+        "type": "admob",
+        "sdkKey": "",
+        "adId": ""
+      },
+      {
+        "type": "unity",
+        "sdkKey": "",
+        "adId": ""
+      }
+    ]
+  },
   "userAgent": {
     "ios": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/",
     "android": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.105 Mobile Safari/537.36"
