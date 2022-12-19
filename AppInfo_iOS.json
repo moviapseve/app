@@ -31,6 +31,7 @@
       }
     ],
     "search": "https://hdtoday.tv/search",
+    "detail": "https://hdtoday.tv",
     "filter": "https://hdtoday.tv/filter",
     "filterDefault": "https://hdtoday.tv/filter?type=all&quality=all&release_year=all&genre=all&country=all"
   },
