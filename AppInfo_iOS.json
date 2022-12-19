@@ -1,5 +1,5 @@
 {
-  "urls": {
+  "baseUrl": {
     "home": "https://hdtoday.tv/home",
     "popular": [
       {
