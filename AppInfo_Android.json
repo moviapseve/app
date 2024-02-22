@@ -1,16 +1,16 @@
 {
   "urls": {
-    "home": "https://hdtoday.tv/home",
-    "movie": "https://hdtoday.tv/movie",
-    "tvShow": "https://hdtoday.tv/tv-show",
+    "home": "https://hdtoday.to/home",
+    "movie": "https://hdtoday.to/movie",
+    "tvShow": "https://hdtoday.to/tv-show",
     "topIMDB": {
-      "all": "https://hdtoday.tv/top-imdb?type=all",
-      "movie": "https://hdtoday.tv/top-imdb?type=movie",
-      "tvShow": "https://hdtoday.tv/top-imdb?type=tv"
+      "all": "https://hdtoday.to/top-imdb?type=all",
+      "movie": "https://hdtoday.to/top-imdb?type=movie",
+      "tvShow": "https://hdtoday.to/top-imdb?type=tv"
     },
-    "search": "https://hdtoday.tv/search",
-    "filter": "https://hdtoday.tv/filter",
-    "filterDefault": "https://hdtoday.tv/filter?type=all&quality=all&release_year=all&genre=all&country=all"
+    "search": "https://hdtoday.to/search",
+    "filter": "https://hdtoday.to/filter",
+    "filterDefault": "https://hdtoday.to/filter?type=all&quality=all&release_year=all&genre=all&country=all"
   },
   "alerts": [
     {
